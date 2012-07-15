@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAUX//+2U\u003d",
+        "filename": "arch/arm/configs/cyanogen_quincyatt_defconfig",
+        "patchSetId": 5
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 3495
+      },
+      "writtenOn": "2012-07-15T08:52:50Z",
+      "side": 1,
+      "message": "Shouldn\u0027t this file be named cyanogenmod_quincyatt_defconfig ?",
+      "revId": "fe003bdc206a999e944ccb1e5cbb552c0fa4149a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
