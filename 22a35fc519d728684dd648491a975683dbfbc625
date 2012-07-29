@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAVn///98\u003d",
+        "filename": "arch/arm/mach-msm/acpuclock-8x60.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 808,
+      "author": {
+        "id": 3495
+      },
+      "writtenOn": "2012-07-29T03:49:12Z",
+      "side": 1,
+      "message": "This will never be true, if above would catch first.",
+      "revId": "22a35fc519d728684dd648491a975683dbfbc625",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
