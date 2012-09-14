@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAYX///iA\u003d",
+        "filename": "drivers/input/keyboard/cypress-touchkey.c",
+        "patchSetId": 1
+      },
+      "lineNbr": 389,
+      "author": {
+        "id": 2260
+      },
+      "writtenOn": "2012-09-14T12:42:14Z",
+      "side": 1,
+      "message": "Should the \"mutex_lock\" in 392 move to just before here?  Otherwise if the device is_powering_on, it\u0027ll attempt to unlock a non-locked mutex.",
+      "revId": "2b0ff9d05f610f07c061ac2c24d3c4412fb8ef8f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
