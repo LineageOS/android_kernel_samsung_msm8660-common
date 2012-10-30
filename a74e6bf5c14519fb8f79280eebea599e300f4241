@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "AAAAaH//81k\u003d",
+        "filename": "drivers/input/keyboard/Makefile",
+        "patchSetId": 1
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 895
+      },
+      "writtenOn": "2012-10-30T03:59:07Z",
+      "side": 1,
+      "message": "if defined(CONFIG_USA_MODEL_SGH_T769) || defined(CONFIG_USA_MODEL_SGH_I577)\n\nNo need to do 2 ifdefs for the same object file.",
+      "revId": "a74e6bf5c14519fb8f79280eebea599e300f4241",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
