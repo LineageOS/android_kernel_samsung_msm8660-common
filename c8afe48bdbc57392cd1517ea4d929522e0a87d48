@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dac4157f_6a73954e",
+        "filename": "net/netfilter/xt_socket.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 111,
+      "author": {
+        "id": 3304
+      },
+      "writtenOn": "2013-07-09T19:39:58Z",
+      "side": 1,
+      "message": "Missing a semicolon here",
+      "revId": "c8afe48bdbc57392cd1517ea4d929522e0a87d48",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
