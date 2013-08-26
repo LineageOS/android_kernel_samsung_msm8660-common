@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "baee8101_bcf9dfca",
+        "filename": "include/linux/cpufreq.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 354,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2013-08-26T01:21:10Z",
+      "side": 1,
+      "message": "Don\u0027t change this. It actually takes more power to ramp up from 192K so overall power consumption is higher.",
+      "revId": "6f408f106d73f67dfec90cfa844968466d5c55e1",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
