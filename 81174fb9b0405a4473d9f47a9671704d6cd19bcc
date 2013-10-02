@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "da37b569_cd574cc9",
+        "filename": "drivers/video/msm/lcdc_S6E63M0.c",
+        "patchSetId": 2
+      },
+      "lineNbr": 394,
+      "author": {
+        "id": 895
+      },
+      "writtenOn": "2013-10-02T02:16:07Z",
+      "side": 1,
+      "message": "Trailing whitespace.",
+      "revId": "81174fb9b0405a4473d9f47a9671704d6cd19bcc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
