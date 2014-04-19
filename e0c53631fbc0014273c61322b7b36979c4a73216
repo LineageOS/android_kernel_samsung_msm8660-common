@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7af24918_4fa5cf02",
+        "filename": "arch/arm/mach-msm/msm_mpdecision.c",
+        "patchSetId": 4
+      },
+      "lineNbr": 1104,
+      "author": {
+        "id": 7487
+      },
+      "writtenOn": "2014-04-19T17:22:13Z",
+      "side": 1,
+      "message": "This method has a bad bug... you get a reference to the policy, but don\u0027t put it back. This causes problems when the cpu is hotplugged, as it can\u0027t release the policy sys_fs and so it hangs...",
+      "revId": "e0c53631fbc0014273c61322b7b36979c4a73216",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
